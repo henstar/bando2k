@@ -1,0 +1,39 @@
+
+body {
+    background-color: #222222;
+}
+
+
+
+#bando {
+    background-color: moccasin;
+    position: absolute;
+    left: 25%;
+    top: 10%;
+    width: 50%;
+    height: 50%;
+    border-radius: 6px;
+
+    padding: 3%;
+} 
+
+
+form label { 
+    font-size: xx-large;
+}
+
+
+.rbtn {
+    width:4em;
+    height:4em;
+}
+
+
+#cps {
+    position: absolute;
+
+    left: 30%;
+    width: 30%;
+    height: 30%;
+    background-color: paleturquoise;
+} 
